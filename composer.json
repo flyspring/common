@@ -1,5 +1,5 @@
 {
-    "name": "tencentcloud/common",
+    "name": "flyspringTencentCloud/common",
     "description": "TencentCloudApi php sdk",
     "type": "library",
     "homepage": "https://github.com/tencentcloud-sdk-php/common",
